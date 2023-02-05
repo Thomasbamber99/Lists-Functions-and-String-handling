@@ -1,5 +1,1 @@
-thomas, go to shops, get groceries, 2022-12-18, 2022-12-19, Yes
-thomas, go to shops, get groceries, 2022-12-18, 2022-12-25, No
-thomas, go to shops, get groceries, 2022-12-18, 2022-12-19, No
-thomas, go to shops, get groceries, 2022-12-18, 2022-12-19, No
-admin, go to shops, get groceries, 2022-12-18, 2022-12-19, No
+
