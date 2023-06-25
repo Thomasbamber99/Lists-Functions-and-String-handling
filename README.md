@@ -29,16 +29,16 @@ ___
 
 ## Registering  User 
 ---
-[img1](https://github.com/Thomasbamber99/Lists-Functions-and-String-handling/blob/f8d4d72c8b109b926329856506c7aeb746ffd8c0/img/Register%20User%20function.png)
+![img1](https://github.com/Thomasbamber99/Lists-Functions-and-String-handling/blob/f8d4d72c8b109b926329856506c7aeb746ffd8c0/img/Register%20User%20function.png)
 
-[img2](https://github.com/Thomasbamber99/Lists-Functions-and-String-handling/blob/f8d4d72c8b109b926329856506c7aeb746ffd8c0/img/User%20added%20to%20.txt%20file.png)
+![img2](https://github.com/Thomasbamber99/Lists-Functions-and-String-handling/blob/f8d4d72c8b109b926329856506c7aeb746ffd8c0/img/User%20added%20to%20.txt%20file.png)
 ___
 
 ## Adding new tasks
 ---
-[img3](https://github.com/Thomasbamber99/Lists-Functions-and-String-handling/blob/f8d4d72c8b109b926329856506c7aeb746ffd8c0/img/Adding%20task.png)
+![img3](https://github.com/Thomasbamber99/Lists-Functions-and-String-handling/blob/f8d4d72c8b109b926329856506c7aeb746ffd8c0/img/Adding%20task.png)
 
-[img4](https://github.com/Thomasbamber99/Lists-Functions-and-String-handling/blob/f8d4d72c8b109b926329856506c7aeb746ffd8c0/img/New%20task%20added%20to%20.txt%20file.png)
+![img4](https://github.com/Thomasbamber99/Lists-Functions-and-String-handling/blob/f8d4d72c8b109b926329856506c7aeb746ffd8c0/img/New%20task%20added%20to%20.txt%20file.png)
 ___
 
 ## view all current tasks
